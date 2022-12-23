@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "thewebstorebyg",
+  "npmScope": "nx-react-module-fedration",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
