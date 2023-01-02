@@ -1,1 +1,1 @@
-# nx-react-module-fedration
+# React SSR with Module Fedration and NX
