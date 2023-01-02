@@ -4,10 +4,11 @@ import NxWelcome from './nx-welcome';
 
 export function App() {
   return (
-    <>
-      <NxWelcome title="search" />
-      <div />
-    </>
+    <h1>Hello Search</h1>
+    // <>
+    //   <NxWelcome title="search" />
+    //   <div />
+    // </>
   );
 }
 
