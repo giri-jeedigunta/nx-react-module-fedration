@@ -4,7 +4,7 @@ import cors from 'cors';
 
 import { handleRequest } from './src/main.server';
 
-const port = process.env['PORT'] || 4200;
+const port = process.env['PORT'] || 4202;
 const app = express();
 
 const browserDist = path.join(process.cwd(), 'dist/packages/search/browser');
